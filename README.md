@@ -142,13 +142,6 @@ In ~15% of test cases, optimized prompts performed worse than originals. Pattern
 
 ---
 
-## Running the Project
-
-```bash
-git clone https://github.com/charanpreet/prompt-optimization-study.git
-open index.html
-```
-
 No API keys required. All processing is client-side.
 
 ---
