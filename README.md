@@ -156,6 +156,17 @@ All token costs shown in this project (e.g., GPT-4 ~$0.03/1K tokens) are **rough
 
 **Always check official pricing documentation** before making cost-based decisions.
 
+
+## Note on Intent
+
+This tool is not intended to produce universally "better" prompts.
+It is designed to observe how instruction rewriting affects model behavior,
+including confidence, verbosity, and potential failure modes.
+
+In multiple cases, an "optimized" prompt improves surface clarity
+while introducing incorrect assumptions or overconfidence,
+which is a key behavior this project aims to surface.
+
 ---
 
 ## Author
